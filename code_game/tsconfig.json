@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "es5",
+    "declaration": true,
+    "sourceMap": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outFile": "../lib_user/game.js",
+    "composite": true,
+    "watch": true,
+    "lib": [
+      "dom",
+      "es5",
+      "es2015.promise"
+    ]
+  },
+  "references": [
+    {
+      "path": "../gd3d"
+    }
+  ]
+}

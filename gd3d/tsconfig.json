@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "es5",
+    "declaration": true,
+    "sourceMap": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outFile": "../lib/gd3d.js",
+    "composite": true,
+    "lib": [
+      "dom",
+      "es5",
+      "es2015.promise"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "bundle": {
+    "commonSourceDirectory": "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/",
+    "sourceFiles": [
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/environment.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/main.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/statemgr.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/common/apitools.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/common/assettools.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/common/localstore.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/common/nettools.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/common/tools.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_first.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_gameplayer.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_list.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_login.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_menu.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_regision.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_second.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/state/state_selectMap.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/system/gameplay.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/system/map2d_system.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/ui/CFile.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/ui/ScrollFrame.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/ui/tools.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/ui/dialog/MessageBox.ts",
+      "d:/git/olio.blockstaff-20190408/olio.blockstaff/gd3d/code_game/ui/game/editor/EditorGame.ts"
+    ],
+    "js": {
+      "sections": [
+        {
+          "pos": 0,
+          "end": 607,
+          "kind": "emitHelpers",
+          "data": "typescript:awaiter"
+        },
+        {
+          "pos": 609,
+          "end": 2425,
+          "kind": "emitHelpers",
+          "data": "typescript:generator"
+        },
+        {
+          "pos": 2427,
+          "end": 3003,
+          "kind": "emitHelpers",
+          "data": "typescript:decorate"
+        },
+        {
+          "pos": 3005,
+          "end": 122728,
+          "kind": "text"
+        }
+      ],
+      "sources": {
+        "helpers": [
+          "typescript:awaiter",
+          "typescript:generator",
+          "typescript:decorate"
+        ]
+      }
+    },
+    "dts": {
+      "sections": [
+        {
+          "pos": 0,
+          "end": 15885,
+          "kind": "text"
+        }
+      ]
+    }
+  },
+  "version": "3.4.2"
+}
